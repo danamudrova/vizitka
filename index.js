@@ -1,14 +1,4 @@
-
-const rodnaCislaKOtestovani = [
-    '123',
-    'nepovím',
-    '7060201236',
-    '123456789123456789',
-    '9062185440',
-    '123č56q8y7',
-  ];
-
-//const rodneCislo = forEach(rodnaCislaKOtestovani)
+const rodneCislo = prompt('zadejte rodné číslo')
 
 let pocitadlo = 0
 
